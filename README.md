@@ -1,8 +1,9 @@
 # Banking Project 🏦
 The first project that I made using C++(actually my first language as well)!!
 
-This is basically a banking system to keep track of accounts that have been made.
-##Things that you can do:
+It is basically a banking system to keep track of accounts that have been made.
+
+### Things that you can do:
 1. Make accounts
 2. Balance enquiry
 3. Deposit
